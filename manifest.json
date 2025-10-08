@@ -1,7 +1,7 @@
 {
   "name": "Simple Text Creator",
   "description": "Creates text elements from textarea input with debug mode",
-  "code": "https://myrustycage.github.io/penpot-text-creator-plugin/plugin.js",
+  "code": "/plugin.js",
   "permissions": [
     "content:read",
     "content:write",
